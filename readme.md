@@ -34,7 +34,7 @@ A pesquisa deve ser feita com 50 entrevistados. Ao final, o programa deverá exi
 1. Certifique-se de ter o [Python](https://python.org) instalado em sua máquina.
 2. Baixe o arquivo `pesquisa.py` deste repositório ou clone o projeto:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/mateusmartinssantos/pesquisa_ag8.git
    ```
 3. Abra o terminal ou prompt de comando na pasta do arquivo e execute:
    ```bash
