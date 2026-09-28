@@ -13,7 +13,7 @@ Realize testes com 10 entrevistados para validar o funcionamento do programa.
 Compartilhe o projeto completo junto com os prints de tela do código e da execução no seu repositório Github, informe o link do repositório no ambiente virtual
 '''
 
-total_entrevistados = 10
+total_entrevistados = 50
 
 qtdd_execelente =0 
 qtdd_ruim=0
